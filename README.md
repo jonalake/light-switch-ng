@@ -1,6 +1,6 @@
 # Light Switch (Angular Edition)
 
-Deployed Site: [light-switch-ng.netlify.app](light-switch-ng.netlify.app)
+Deployed Site: [light-switch-ng.netlify.app](https://light-switch-ng.netlify.app)
 
 Create an Angular app that has the following:
 
