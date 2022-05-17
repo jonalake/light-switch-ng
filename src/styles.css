@@ -23,4 +23,6 @@ button {
 
 button:active {
   transform: scale(0.95);
+  outline: 1px solid #fff;
+  outline-offset: -4px;
 }
