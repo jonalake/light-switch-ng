@@ -1,5 +1,7 @@
 # Light Switch (Angular Edition)
 
+Deployed Site: [light-switch-ng.netlify.app](light-switch-ng.netlify.app)
+
 Create an Angular app that has the following:
 
 * A component called `NightLight` that holds state for whether or not it's on
